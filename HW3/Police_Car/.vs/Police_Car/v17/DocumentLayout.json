@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Bahareh\\Semester 9\\Files\\Game\\GameTheory-Projects\\HW3\\Police_Car\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{917FCE5F-4D64-5810-8A61-59B0F40F44AF}|Assembly-CSharp.csproj|d:\\bahareh\\semester 9\\files\\game\\gametheory-projects\\hw3\\police_car\\assets\\kajamansroads\\free\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{917FCE5F-4D64-5810-8A61-59B0F40F44AF}|Assembly-CSharp.csproj|solutionrelative:assets\\kajamansroads\\free\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Bahareh\\Semester 9\\Files\\Game\\GameTheory-Projects\\HW3\\Police_Car\\Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "D:\\Bahareh\\Semester 9\\Files\\Game\\GameTheory-Projects\\HW3\\Police_Car\\Assets\\KajamansRoads\\Free\\ReadMe.txt",
+              "RelativeDocumentMoniker": "Assets\\KajamansRoads\\Free\\ReadMe.txt",
+              "ToolTip": "D:\\Bahareh\\Semester 9\\Files\\Game\\GameTheory-Projects\\HW3\\Police_Car\\Assets\\KajamansRoads\\Free\\ReadMe.txt",
+              "RelativeToolTip": "Assets\\KajamansRoads\\Free\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-16T15:45:50.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Lit.shader",
               "DocumentMoniker": "D:\\Bahareh\\Semester 9\\Files\\Game\\GameTheory-Projects\\HW3\\Police_Car\\Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader",
