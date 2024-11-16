@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 90502670baf66854d8a44c68d858c5df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3880966321382012706
+    second: pngtree-meteor-fall-with-fire-png-image_10244310_0
+  - first:
+      213: -5528983871291391729
+    second: pngtree-meteor-fall-with-fire-png-image_10244310_1
+  - first:
+      213: 3398419140507335064
+    second: pngtree-meteor-fall-with-fire-png-image_10244310_2
+  - first:
+      213: 1321429636982772964
+    second: pngtree-meteor-fall-with-fire-png-image_10244310_3
+  - first:
+      213: 6094007323252106763
+    second: pngtree-meteor-fall-with-fire-png-image_10244310_4
+  - first:
+      213: -4733416871610312964
+    second: pngtree-meteor-fall-with-fire-png-image_10244310_5
+  - first:
+      213: 500221619029344530
+    second: pngtree-meteor-fall-with-fire-png-image_10244310_6
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-meteor-fall-with-fire-png-image_10244310_0
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 340
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed845c461b9042ac0800000000000000
+      internalID: -3880966321382012706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-meteor-fall-with-fire-png-image_10244310_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 329
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0100de767a1543b0800000000000000
+      internalID: -5528983871291391729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-meteor-fall-with-fire-png-image_10244310_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 333
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899f3d3e33c992f20800000000000000
+      internalID: 3398419140507335064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-meteor-fall-with-fire-png-image_10244310_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 38
+        width: 281
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -95.5, y: 20}
+        - {x: -104.5, y: 6}
+        - {x: -102.5, y: -8}
+        - {x: -120.5, y: -25}
+        - {x: -131.5, y: -35}
+        - {x: -128.5, y: -46}
+        - {x: -138.5, y: -57}
+        - {x: -138.5, y: -72}
+        - {x: -137.5, y: -91}
+        - {x: -135.5, y: -106}
+        - {x: -118.5, y: -113}
+        - {x: -113.5, y: -124}
+        - {x: -108.5, y: -139}
+        - {x: -91.5, y: -139}
+        - {x: -68.5, y: -128}
+        - {x: -47.5, y: -117}
+        - {x: -28.5, y: -105}
+        - {x: -25.5, y: -95}
+        - {x: -17.5, y: -97}
+        - {x: 6.5, y: -88}
+        - {x: 11.5, y: -71}
+        - {x: 12.5, y: -55}
+        - {x: 31.5, y: -47}
+        - {x: 30.5, y: -32}
+        - {x: 49.5, y: -24}
+        - {x: 58.5, y: -5}
+        - {x: 77.5, y: 9}
+        - {x: 83.5, y: 30}
+        - {x: 61.5, y: 27}
+        - {x: 113.5, y: 90}
+        - {x: 94.5, y: 81}
+        - {x: 88.5, y: 87}
+        - {x: 125.5, y: 140}
+        - {x: 100.5, y: 123}
+        - {x: 68.5, y: 91}
+        - {x: 44.5, y: 68}
+        - {x: 32.5, y: 74}
+        - {x: 46.5, y: 89}
+        - {x: 56.5, y: 113}
+        - {x: 28.5, y: 92}
+        - {x: 13.5, y: 75}
+        - {x: 6.5, y: 78}
+        - {x: -9.5, y: 67}
+        - {x: -29.5, y: 59}
+        - {x: -43.5, y: 44}
+        - {x: -65.5, y: 42}
+        - {x: -91.5, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4180ce049a65210800000000000000
+      internalID: 1321429636982772964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-meteor-fall-with-fire-png-image_10244310_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 318
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0622118f53429450800000000000000
+      internalID: 6094007323252106763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-meteor-fall-with-fire-png-image_10244310_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 271
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf693d91f668f4eb0800000000000000
+      internalID: -4733416871610312964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-meteor-fall-with-fire-png-image_10244310_6
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 268
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211073789e421f600800000000000000
+      internalID: 500221619029344530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 017e95edd950cd1459a8fbec660f45a0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-meteor-fall-with-fire-png-image_10244310_0: -3880966321382012706
+      pngtree-meteor-fall-with-fire-png-image_10244310_1: -5528983871291391729
+      pngtree-meteor-fall-with-fire-png-image_10244310_2: 3398419140507335064
+      pngtree-meteor-fall-with-fire-png-image_10244310_3: 1321429636982772964
+      pngtree-meteor-fall-with-fire-png-image_10244310_4: 6094007323252106763
+      pngtree-meteor-fall-with-fire-png-image_10244310_5: -4733416871610312964
+      pngtree-meteor-fall-with-fire-png-image_10244310_6: 500221619029344530
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
