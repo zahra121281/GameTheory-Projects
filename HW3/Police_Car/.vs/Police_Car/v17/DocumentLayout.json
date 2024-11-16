@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "D:\\Bahareh\\Semester 9\\Files\\Game\\GameTheory-Projects\\HW3\\Police_Car\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{917FCE5F-4D64-5810-8A61-59B0F40F44AF}|Assembly-CSharp.csproj|d:\\bahareh\\semester 9\\files\\game\\gametheory-projects\\hw3\\police_car\\assets\\kajamansroads\\free\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{917FCE5F-4D64-5810-8A61-59B0F40F44AF}|Assembly-CSharp.csproj|d:\\bahareh\\semester 9\\files\\game\\gametheory-projects\\hw3\\police_car\\assets\\scripts\\sirenandlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917FCE5F-4D64-5810-8A61-59B0F40F44AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sirenandlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917FCE5F-4D64-5810-8A61-59B0F40F44AF}|Assembly-CSharp.csproj|D:\\Bahareh\\Semester 9\\Files\\Game\\GameTheory-Projects\\HW3\\Police_Car\\assets\\kajamansroads\\free\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{917FCE5F-4D64-5810-8A61-59B0F40F44AF}|Assembly-CSharp.csproj|solutionrelative:assets\\kajamansroads\\free\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SirenAndLight.cs",
+              "DocumentMoniker": "D:\\Bahareh\\Semester 9\\Files\\Game\\GameTheory-Projects\\HW3\\Police_Car\\Assets\\Scripts\\SirenAndLight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SirenAndLight.cs",
+              "ToolTip": "D:\\Bahareh\\Semester 9\\Files\\Game\\GameTheory-Projects\\HW3\\Police_Car\\Assets\\Scripts\\SirenAndLight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SirenAndLight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:55:42.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ReadMe.txt",
               "DocumentMoniker": "D:\\Bahareh\\Semester 9\\Files\\Game\\GameTheory-Projects\\HW3\\Police_Car\\Assets\\KajamansRoads\\Free\\ReadMe.txt",
               "RelativeDocumentMoniker": "Assets\\KajamansRoads\\Free\\ReadMe.txt",
@@ -30,12 +47,11 @@
               "RelativeToolTip": "Assets\\KajamansRoads\\Free\\ReadMe.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-16T15:45:50.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T15:45:50.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Lit.shader",
               "DocumentMoniker": "D:\\Bahareh\\Semester 9\\Files\\Game\\GameTheory-Projects\\HW3\\Police_Car\\Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader",
@@ -43,8 +59,7 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader",
               "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2024-11-16T07:50:36.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T07:50:36.347Z"
             }
           ]
         }

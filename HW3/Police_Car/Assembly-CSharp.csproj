@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\CarController.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Scripts\SirenAndLight.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\KajamansRoads\FileNamesDescription.txt" />
