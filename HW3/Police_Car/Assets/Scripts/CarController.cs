@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class CarController : MonoBehaviour
 {
-    public float speed = 10f; // Speed of movement
+    private float speed = 100f; // Speed of movement
 
     void Update()
     {
