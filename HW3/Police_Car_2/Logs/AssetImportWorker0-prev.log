@@ -1,0 +1,337 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.24f1 (11fa355cd605) revision 1178165'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'en' Physical Memory: 8043 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+E:\Program Files\Unity 6000.0.24f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Bahareh/Semester 9/Files/Game/GameTheory-Projects/HW3/Police_Car_2
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49357
+-job-worker-count
+3
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: D:/Bahareh/Semester 9/Files/Game/GameTheory-Projects/HW3/Police_Car_2
+D:/Bahareh/Semester 9/Files/Game/GameTheory-Projects/HW3/Police_Car_2
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [22180]  Target information:
+
+Player connection [22180]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 3070763232 [EditorId] 3070763232 [Version] 1048832 [Id] WindowsEditor(7,Kavousi) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [22180]  * "[IP] 192.168.0.158 [Port] 0 [Flags] 2 [Guid] 3070763232 [EditorId] 3070763232 [Version] 1048832 [Id] WindowsEditor(7,Kavousi) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [22180] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [22180] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 3
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 44.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.24f1 (11fa355cd605)
+[Subsystems] Discovering subsystems at path E:/Program Files/Unity 6000.0.24f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Bahareh/Semester 9/Files/Game/GameTheory-Projects/HW3/Police_Car_2/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX230 (ID=0x1d11)
+    Vendor:   NVIDIA
+    VRAM:     1984 MB
+    Driver:   30.0.15.1169
+Initialize mono
+Mono path[0] = 'E:/Program Files/Unity 6000.0.24f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Program Files/Unity 6000.0.24f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'E:/Program Files/Unity 6000.0.24f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56636
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Program Files/Unity 6000.0.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.015588 seconds.
+- Loaded All Assemblies, in  3.417 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.700 seconds
+Domain Reload Profiling: 6118ms
+	BeginReloadAssembly (1582ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (6ms)
+	RebuildCommonClasses (290ms)
+	RebuildNativeTypeToScriptingClass (90ms)
+	initialDomainReloadingComplete (362ms)
+	LoadAllAssembliesAndSetupDomain (1090ms)
+		LoadAssemblies (1577ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1072ms)
+			TypeCache.Refresh (1065ms)
+				TypeCache.ScanAssembly (977ms)
+			BuildScriptInfoCaches (1ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (2704ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2344ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (168ms)
+			SetLoadedEditorAssemblies (26ms)
+			BeforeProcessingInitializeOnLoad (41ms)
+			ProcessInitializeOnLoadAttributes (1525ms)
+			ProcessInitializeOnLoadMethodAttributes (560ms)
+			AfterProcessingInitializeOnLoad (23ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  9.528 seconds
+Refreshing native plugins compatible for Editor in 6.43 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  6.281 seconds
+Domain Reload Profiling: 15804ms
+	BeginReloadAssembly (4407ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (43ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (166ms)
+	RebuildCommonClasses (279ms)
+	RebuildNativeTypeToScriptingClass (86ms)
+	initialDomainReloadingComplete (296ms)
+	LoadAllAssembliesAndSetupDomain (4452ms)
+		LoadAssemblies (2900ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (2542ms)
+			TypeCache.Refresh (1426ms)
+				TypeCache.ScanAssembly (1327ms)
+			BuildScriptInfoCaches (844ms)
+			ResolveRequiredComponents (229ms)
+	FinalizeReload (6283ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (4543ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (40ms)
+			BeforeProcessingInitializeOnLoad (519ms)
+			ProcessInitializeOnLoadAttributes (3298ms)
+			ProcessInitializeOnLoadMethodAttributes (634ms)
+			AfterProcessingInitializeOnLoad (33ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (42ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 8.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 198 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5899 unused Assets / (4.9 MB). Loaded Objects now: 6665.
+Memory consumption went from 177.8 MB to 172.9 MB.
+Total: 48.259500 ms (FindLiveObjects: 1.833400 ms CreateObjectMapping: 2.700900 ms MarkObjects: 30.601000 ms  DeleteObjects: 13.119100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 282152.318421 seconds.
+  path: Assets/Retro Cartoon Car Cicada/Meshes/Materials/CICADA_4096.mat
+  artifactKey: Guid(32935c5d6dd080d409eefb639b60ca50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Retro Cartoon Car Cicada/Meshes/Materials/CICADA_4096.mat using Guid(32935c5d6dd080d409eefb639b60ca50) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '13d3f50796571ebac1855e73c8569aa6') in 5.6388104 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Settings/SampleSceneProfile.asset
+  artifactKey: Guid(10fc4df2da32a41aaa32d77bc913491c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/SampleSceneProfile.asset using Guid(10fc4df2da32a41aaa32d77bc913491c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b72c935079ba95563e246d02d57d535f') in 0.0050407 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Retro Cartoon Car Cicada/Meshes/Materials/CICADA_4096_Headlights.mat
+  artifactKey: Guid(d2510ecca137a134a942f5cbe5bab295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Retro Cartoon Car Cicada/Meshes/Materials/CICADA_4096_Headlights.mat using Guid(d2510ecca137a134a942f5cbe5bab295) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6107d91fa16c63d36baf014997b549ff') in 0.617345 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Settings/PC_RPAsset.asset
+  artifactKey: Guid(4b83569d67af61e458304325a23e5dfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/PC_RPAsset.asset using Guid(4b83569d67af61e458304325a23e5dfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db197cde3899097fb35a5e04db69c105') in 0.002672 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/Retro Cartoon Car Cicada/Meshes/Materials/CICADA_3072_Matte.mat
+  artifactKey: Guid(8fed7b7523de7004e97e7e9b32bed96b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Retro Cartoon Car Cicada/Meshes/Materials/CICADA_3072_Matte.mat using Guid(8fed7b7523de7004e97e7e9b32bed96b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f9ea0ced4faa76247651cdc782c8cf15') in 0.5433019 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Retro Cartoon Car Cicada/Meshes/Materials/CICADA_4096_Shiny.mat
+  artifactKey: Guid(36c7e4be50c33be4e85cc7b3a2d43d2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Retro Cartoon Car Cicada/Meshes/Materials/CICADA_4096_Shiny.mat using Guid(36c7e4be50c33be4e85cc7b3a2d43d2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '85d0b443c7ab578ed270b556f1691f09') in 0.9947249 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/Retro Cartoon Car Cicada/Meshes/cicada_shadow.FBX
+  artifactKey: Guid(32e3dce162fd06e45b9b3ca284e71bb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Retro Cartoon Car Cicada/Meshes/cicada_shadow.FBX using Guid(32e3dce162fd06e45b9b3ca284e71bb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b4cdc08d379f23b6567c4958a74adf1f') in 1.2953918 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Settings/DefaultVolumeProfile.asset
+  artifactKey: Guid(ab09877e2e707104187f6f83e2f62510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/DefaultVolumeProfile.asset using Guid(ab09877e2e707104187f6f83e2f62510) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '10528149371aefc32227726816d72a59') in 0.005881 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/Retro Cartoon Car Cicada/Meshes/CICADA_COLLIDER.FBX
+  artifactKey: Guid(d4728cf79224dc34d86ed621c62afa7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Retro Cartoon Car Cicada/Meshes/CICADA_COLLIDER.FBX using Guid(d4728cf79224dc34d86ed621c62afa7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '88e851213ab67d1e20e2c0eb4366a2b8') in 0.0612388 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/Retro Cartoon Car Cicada/Meshes/Materials/CICADA_4096_Matte.mat
+  artifactKey: Guid(5b96aa6f03236ea43a0caa6dec2e78cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Retro Cartoon Car Cicada/Meshes/Materials/CICADA_4096_Matte.mat using Guid(5b96aa6f03236ea43a0caa6dec2e78cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c7b579a2eba89872e3f5f2e452a10e1d') in 0.393567 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
+  artifactKey: Guid(18dc0cd2c080841dea60987a38ce93fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/UniversalRenderPipelineGlobalSettings.asset using Guid(18dc0cd2c080841dea60987a38ce93fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '310980c57ab2372c54bbbef55f33d3ab') in 0.0043415 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Retro Cartoon Car Cicada/Textures/CICADA_4096.psd
+  artifactKey: Guid(2f0e115e69f0da8428107997efb890b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Retro Cartoon Car Cicada/Textures/CICADA_4096.psd using Guid(2f0e115e69f0da8428107997efb890b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '023fb632e9093ad013c3c5fe7f5e2559') in 0.3981949 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Retro Cartoon Car Cicada/Meshes/Materials
+  artifactKey: Guid(cc1e5571087348842bb89d948de52a53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Retro Cartoon Car Cicada/Meshes/Materials using Guid(cc1e5571087348842bb89d948de52a53) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '04d61d53fe22f339eb4d4fc9c08c1b63') in 0.0022295 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Settings/PC_Renderer.asset
+  artifactKey: Guid(f288ae1f4751b564a96ac7587541f7a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/PC_Renderer.asset using Guid(f288ae1f4751b564a96ac7587541f7a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'faab6cc3a0eb7141fe31e2e91fd81ee8') in 0.0047701 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Retro Cartoon Car Cicada/Textures/cicada_shadow.psd
+  artifactKey: Guid(eaefd4d32525a4947bbbbf96de2727d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Retro Cartoon Car Cicada/Textures/cicada_shadow.psd using Guid(eaefd4d32525a4947bbbbf96de2727d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd338f54154c2490800ce3cc7f7bea6ad') in 0.0629695 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Readme.asset
+  artifactKey: Guid(8105016687592461f977c054a80ce2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Readme.asset using Guid(8105016687592461f977c054a80ce2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '50ea5ad2cda8720781b90d71f311d8d1') in 0.0343817 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/Retro Cartoon Car Cicada/Meshes/CICADA_HI.FBX
+  artifactKey: Guid(65a090704015245488740a1e2357c69c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Retro Cartoon Car Cicada/Meshes/CICADA_HI.FBX using Guid(65a090704015245488740a1e2357c69c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '595e9829ee287d10b67dd715748b2054') in 0.7467399 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 106
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Retro Cartoon Car Cicada/Meshes/Materials/CICADA_4096_Paint.mat
+  artifactKey: Guid(59e12547b2b09af469e9a8162ac152e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Retro Cartoon Car Cicada/Meshes/Materials/CICADA_4096_Paint.mat using Guid(59e12547b2b09af469e9a8162ac152e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b3202f6af8bcf3d4cc78dab644dc3912') in 0.3422691 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 156.307357 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '092f7974db3fb175701bdf9959c1e23b') in 0.0027394 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
