@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638674607292562826
-    m_Hash: 2918125588
+      ticks: 638674691706852531
+    m_Hash: 3353343480
   m_LockFileStatus:
     m_FilePath: D:/Bahareh/Semester 9/Files/Game/GameTheory-Projects/HW3/Police_Car_2/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638674607292762609
-    m_Hash: 1831360859
+      ticks: 638674691706863607
+    m_Hash: 3424042942
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
