@@ -6,7 +6,8 @@ public class PoliceSiren : MonoBehaviour
     [SerializeField] private Light redLight; // Assign your red light in the inspector
     [SerializeField] private Light blueLight; // Assign your blue light in the inspector
     [SerializeField] private Transform sirenParent; // Assign the parent object of lights for rotation
-    [SerializeField] private float sirenSpeed = 1.0f; // Flash speed (seconds)
+    [SerializeField] private float normalIntensity = 1f; // Normal light intensity
+    [SerializeField] private float boostedIntensity = 8f; // Intensity when siren is active
 
     [Header("Sound")]
     [SerializeField] private AudioSource sirenSound; // Assign an AudioSource with a siren clip
@@ -15,46 +16,33 @@ public class PoliceSiren : MonoBehaviour
     [SerializeField] private Renderer sirenModelRenderer; // Assign the siren model
     [SerializeField] private Color emissionColor = Color.white; // Set the emission color
 
-    private bool isSirenActive = true; // Toggle for siren on/off
-    private float timer;
+    private bool isSirenBoosted = false; // Toggle for boosted siren mode
 
     private void Start()
     {
-        // Ensure initial states
-        SetSirenLightsActive(true);
-        StartSirenSound();
-        SetSirenMaterialEmission(true);
+        // Set initial states
+        SetLightIntensity(normalIntensity);
+        SetSirenMaterialEmission(true); // Enable emission at start
     }
 
     private void Update()
     {
-        // Toggle siren with the Space key
-        if (Input.GetKeyDown(KeyCode.Space))
+        // Toggle siren boost with the Space key
+        if (Input.GetKeyDown(KeyCode.Space) && isSirenBoosted == false)
         {
-            isSirenActive = !isSirenActive;
-            SetSirenLightsActive(isSirenActive);
-            if (isSirenActive) StartSirenSound(); else StopSirenSound();
-            SetSirenMaterialEmission(isSirenActive);
+            isSirenBoosted = true;
+            SetLightIntensity(boostedIntensity);
+            StartSirenSound();
+        }
+        else if (Input.GetKeyDown(KeyCode.Space) && isSirenBoosted == true)
+        {
+            isSirenBoosted = false;
+            SetLightIntensity(normalIntensity);
+            StopSirenSound();
         }
 
-        if (isSirenActive)
-        {
-            SirenFlashEffect();
-            RotateSiren();
-        }
-    }
-
-    private void SirenFlashEffect()
-    {
-        timer += Time.deltaTime;
-
-        if (timer >= sirenSpeed)
-        {
-            // Alternate light activity
-            redLight.enabled = !redLight.enabled;
-            blueLight.enabled = !blueLight.enabled;
-            timer = 0f;
-        }
+        // Rotate siren lights
+        RotateSiren();
     }
 
     private void RotateSiren()
@@ -65,11 +53,21 @@ public class PoliceSiren : MonoBehaviour
         }
     }
 
-    private void SetSirenLightsActive(bool state)
+    private void SetLightIntensity(float intensity)
     {
-        if (redLight != null) redLight.enabled = state;
-        if (blueLight != null) blueLight.enabled = state;
+        if (redLight != null)
+        {
+            redLight.intensity = intensity;
+            Debug.Log("Red Light Intensity: " + redLight.intensity);
+        }
+
+        if (blueLight != null)
+        {
+            blueLight.intensity = intensity;
+            Debug.Log("Blue Light Intensity: " + blueLight.intensity);
+        }
     }
+
 
     private void StartSirenSound()
     {
@@ -92,7 +90,6 @@ public class PoliceSiren : MonoBehaviour
     {
         if (sirenModelRenderer != null)
         {
-            // Enable or disable emission
             if (state)
             {
                 sirenModelRenderer.material.EnableKeyword("_EMISSION");

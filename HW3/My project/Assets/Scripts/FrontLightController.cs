@@ -14,8 +14,8 @@ public class FrontLightController : MonoBehaviour
 
     private void Update()
     {
-        // Toggle lights when "L" key is pressed
-        if (Input.GetKeyDown(KeyCode.L))
+        // Toggle lights when "G" key is pressed
+        if (Input.GetKeyDown(KeyCode.G))
         {
             ToggleLights();
         }
