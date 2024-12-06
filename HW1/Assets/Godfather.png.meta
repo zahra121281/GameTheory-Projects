@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Godfather_0: -6837171853506839781
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
