@@ -14,7 +14,7 @@ public class DynamicPath : MonoBehaviour
     public int initialBlocks = 15; // تعداد بلاک‌هایی که در ابتدا تولید می‌شوند
     public float blockWidth = 5f; // عرض هر بلاک
     public float blockLength = 12f; // طول هر بلاک
-    public float moveSpeed = 0.7f; // سرعت حرکت مسیر
+    float moveSpeed = 1.4f; // سرعت حرکت مسیر
     public float delayBeforeMovement = 4.5f; // تاخیر قبل از شروع حرکت
 
     [Header("Environment Objects")]
@@ -45,7 +45,7 @@ public class DynamicPath : MonoBehaviour
     public void starting()
     {
         score = 0;
-        moveSpeed = 0.7f;
+        moveSpeed = 1.4f;
         Speed.text= Math.Round(moveSpeed * 10).ToString();
         Score.text= score.ToString();
         activeBlocks.Clear();
